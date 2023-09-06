@@ -1,4 +1,3 @@
-
 <img width="334" alt="Screenshot 2023-09-06 at 6 09 49 PM" src="https://github.com/gouravZenefits/BookmarkUrlExtension/assets/96715717/cf8708e6-9bd4-4acd-856a-206569b5f345">
 
 **What**
