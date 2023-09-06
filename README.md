@@ -1,4 +1,4 @@
-<img width="334" alt="Screenshot 2023-09-06 at 6 09 49 PM" src="https://github.com/gouravZenefits/BookmarkUrlExtension/assets/96715717/cf8708e6-9bd4-4acd-856a-206569b5f345">
+<img width="334" alt="Screenshot 2023-09-06 at 6 18 20 PM" src="https://github.com/gouravZenefits/BookmarkUrlExtension/assets/96715717/18d76d47-9fad-41a9-aa8b-86361fde5f6f">
 
 **What**
   - It's an extension to update the base url of all the urls we have stored as a bookmark.
