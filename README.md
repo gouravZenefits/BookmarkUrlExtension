@@ -16,6 +16,7 @@
     - Click on Load Unpacked
       <img width="1727" alt="Load Unpacked" src="images/loadUnpacked.png">
     - Select the folder where repo has been cloned
+      <img width="1727" alt="Load Unpacked" src="images/selectFolder.png">
     - Hurray! your extension has been added.
  
 **How to Use**
